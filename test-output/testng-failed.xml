@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.hrms.testscripts.TC002">
+      <class name="com.hrms.testscripts.TC001">
         <methods>
-          <include name="tc002"/>
+          <include name="tc001"/>
         </methods>
-      </class> <!-- com.hrms.testscripts.TC002 -->
+      </class> <!-- com.hrms.testscripts.TC001 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
